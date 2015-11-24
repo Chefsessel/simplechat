@@ -3,8 +3,11 @@ A simple php-based chat using a bit of jQuery and writing the chatlog to file. B
 
 ## Contents / Inhalt ##
 chatlog.html	(keeps what was written)
+
 index.php	(does all the work)
+
 post.php	(for posting msg to chatlog)
+
 style.css (it's obvious, c'mon)
 
 Just upload it to your webserver (or your local server with e.g. xampp).
