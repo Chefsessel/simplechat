@@ -1,4 +1,4 @@
-# simplechat
+# SimpleChat
 A simple php-based chat using some jQuery and writing to chatlog.html. Been using it at work to chat with a handful of collegues. It doesn't scale and beware that resource-hungry setInterval() function at the end for refreshing the chat window contents.
 
 ## Contents / Inhalt ##
