@@ -15,6 +15,7 @@ Just upload it to your webserver (or your local server with e.g. xampp).
 ## Author ##
 
 Sebastian Patting
+
 www.sebastian-patting.de
 
 
